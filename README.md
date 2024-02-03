@@ -5,7 +5,7 @@ XML/CSS/JSON Conveter For Linux
    Convert files between CSV,XML,JSON formats.
    
   
-  İmplementation
+  How to run:
   
   
     converter.c <input file> <output file> <type>
